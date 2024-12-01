@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Register Number:
-## Name:
+# Date:01-12-2024
+## Register Number:24001160
+## Name:Shyamkumar.S
 ## Problem Title
 Implementation of the Alumni Association platform for the University/Institute.
 ## Problem Description
@@ -11,15 +11,49 @@ Government of Gujarat
 
 ## Idea
 
+1. Personalized Alumni Connections:
+Enable smart suggestions and advanced filters to help alumni connect with classmates, mentors, or collaborators based on shared interests, career paths, or locations.
+
+2. Dynamic Donation Hub:
+Create an engaging donation portal with transparent impact tracking and gamified elements like badges or leaderboards to encourage contributions.
+
+3. Career and Mentorship Platform:
+Combine a mentorship program with an alumni-exclusive job board to facilitate career guidance, professional growth, and networking opportunities.
+
+4. Celebrating Success Stories:
+Showcase alumni achievements through a multimedia "Hall of Fame" feature, inspiring the community with stories of personal and professional milestones.
+
+5. Engaging Alumni Events and Reunions:
+Host virtual or hybrid events with tools for RSVP tracking, live interactions, and feedback to ensure well-organized, interactive reunions and networking sessions.
 
 ## Proposed Solution / Architecture Diagram
 
+![alt text](1.png)
 
 ## Use Cases
 
+![alt text](2.png)
 
 ## Technology Stack
 
+React.js
+
+Node.js
+
+PostgreSQL
+
+Firebase Authentication
+
+Google Maps API
+
+Stripe or PayPal
 
 ## Dependencies
 
+Mapping Service - 10 days
+
+Data Collection - 10 days
+
+Frontend Development - 20 days
+
+Budget - Rs. 70,000
